@@ -1,0 +1,26 @@
+Layout {
+  FileType : "delimited"
+  Delimiter : ","
+  Latitude : "1"
+  Longitude : "0"
+  SkipRows : "1"
+  TextCodec : "System"
+  FieldDefinitions {
+    0 {
+      Name : "1.52792"
+      Type : "double"
+    }
+    1 {
+      Name : "42.50525"
+      Type : "double"
+    }
+    2 {
+      Name : "MCDONALD'S (MCDRIVE)"
+      Type : "string"
+    }
+    3 {
+      Name : "AD500 ANDORRA LA VELLA"
+      Type : "string"
+    }
+  }
+}
